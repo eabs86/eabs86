@@ -4,7 +4,7 @@ Sou formado em Engenharia Elétrica-Eletrônica, e trabalho com tecnologia desde
 
 Tenho doutorado em Engenharia Elétrica, focado na parte de instrumentação biomédica para análise da atividade cerebral através da mediçãode oxigenação do cortex cerebral. E na tese eu utilizei Python + Machine Learning para fazer a análise e detectção de padrões de atividade cerebral.
 
-Atualmente sou professor, desenvolvo projetos na área de eletrônica/sistemas embarcados/TI, e faço pós-doutorado na UFPE. O projeto do posdoc envolve análise de dados, sistemas embarcados(Raspberry Pi), sensores vestíveis e machine learning utilizando Python e vários de seus frameworks (Mongo DB, Multiprocessing, fastAPI, scikit-learning, etc) como ferramentas complementares.
+Atualmente sou professor, desenvolvo projetos na área de tecnologia e TI, e faço pós-doutorado na UFPE. O projeto do posdoc envolve análise de dados, sistemas embarcados(Raspberry Pi), sensores vestíveis e machine learning utilizando Python e vários de seus frameworks (Mongo DB, Multiprocessing, fastAPI, scikit-learning, etc) como ferramentas complementares.
 <hr>
 
 ### 💻Linguagens de Programação
@@ -18,15 +18,17 @@ Também estou estudando e desenvolvendo projetos em outras linguagens como forma
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 </div>
 <br>
 
 
 
-![Emmanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=eabs86&show_icons=true&theme=tokyonight)
+![Emmanuel GitHub stats](https://github-readme-stats-eabs86.vercel.app/api?username=eabs86&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eabs86&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eabs86.vercel.app/api/top-langs/?username=eabs86&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
@@ -37,6 +39,9 @@ Sou Educador Financeiro CFEd e tenho como hobby falar sobre educação financeir
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/holdetrade)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/holdetrade/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/holdetrade/)
+
+
+
 
 
 <hr>
