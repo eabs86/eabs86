@@ -26,11 +26,9 @@ Também estou estudando e desenvolvendo projetos em outras linguagens como forma
 
 
 
-![Emmanuel GitHub stats](https://github-readme-stats-kpsav1mnf-eabs86.vercel.app/api?username=eabs86&show_icons=true&theme=tokyonight)
+![Emmanuel GitHub stats](http://github-readme-stats-eabs86.vercel.app//api?username=eabs86&show_icons=true&theme=tokyonight)
 
-
-
-[![Top Langs](https://github-readme-stats-kpsav1mnf-eabs86.vercel.app/api/top-langs/?username=eabs86&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://github-readme-stats-eabs86.vercel.app//api/top-langs/?username=eabs86&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
