@@ -32,14 +32,12 @@ Também estou estudando e desenvolvendo projetos em outras linguagens como forma
 
 <hr>
 
-### 📈 Hobbies
+### Redes Sociais
 
-Sou Educador Financeiro CFEd e tenho como hobby falar sobre educação financeira e mercado financeiro em minhas redes sociais. Além disso, com meu conhecimento de programação, desenvolvo algoritmos e regras de coloração para trading utilizando a linguagem do Metatrader (MQL4) e do Profit Pro(NTL).
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/holdetrade)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/holdetrade/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/holdetrade/)
 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ProfEmmanuelAndrade)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.andrade_)
 
 
 
