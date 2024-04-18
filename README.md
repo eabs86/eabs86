@@ -4,7 +4,7 @@ Sou formado em Engenharia Elétrica-Eletrônica, e trabalho com tecnologia desde
 
 Tenho doutorado em Engenharia Elétrica, focado na parte de instrumentação biomédica para análise da atividade cerebral através da mediçãode oxigenação do cortex cerebral. E na tese eu utilizei Python + Machine Learning para fazer a análise e detectção de padrões de atividade cerebral.
 
-Atualmente sou professor, desenvolvo projetos na área de tecnologia e TI, e faço pós-doutorado na UFPE. O projeto do posdoc envolve análise de dados, sistemas embarcados(Raspberry Pi), sensores vestíveis e machine learning utilizando Python e vários de seus frameworks (Mongo DB, Multiprocessing, fastAPI, scikit-learning, etc) como ferramentas complementares.
+Atualmente sou professor, desenvolvo projetos na área de tecnologia, análise de dados, sistemas embarcados(Raspberry Pi), sensores vestíveis e machine learning utilizando Python e vários de seus frameworks (Mongo DB, Multiprocessing, fastAPI, scikit-learning, etc) como ferramentas complementares.
 <hr>
 
 ### 💻Linguagens de Programação
