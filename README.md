@@ -1,15 +1,34 @@
-## Olá! Eu sou o Emmanuel Andrade! Seja bem vindo ao meu github!👋
+## Hello! I'm Emmanuel Andrade! Welcome to my GitHub!👋
 
-Sou formado em Engenharia Elétrica-Eletrônica, e trabalho com tecnologia desde antes de iniciar minha graduação. Durante minha formação trabalhei bastante com sistemas embarcados (PIC, ARM, Arduino e outras plataformas), redes de sensores sem fio + plataformas (ZigBee, NRF, MSP, etc) e com automação de sistemas (CLP e suas linguagens de programação).
+With over a decade (10+ years) of progressive experience in data science, machine learning, and AI in academic and industrial contexts, I have developed and led projects that have significantly impacted sectors such as healthcare, industrial automation, and public safety. Specializing in advanced analytics, my expertise spans the development of predictive models, anomaly detection systems, pattern recognition, and process optimization that generate impact and value for companies.
 
-Tenho doutorado em Engenharia Elétrica, focado na parte de instrumentação biomédica para análise da atividade cerebral através da mediçãode oxigenação do cortex cerebral. E na tese eu utilizei Python + Machine Learning para fazer a análise e detectção de padrões de atividade cerebral.
+My technical competence includes a deep understanding of machine learning algorithms, data modeling, and simulation using a range of tools such as Python, SQL, MongoDB, and system integration. I have also led data-driven projects, demonstrating tangible benefits such as cost reductions and enhanced predictive capabilities in real-time systems.
 
-Atualmente sou professor, desenvolvo projetos na área de tecnologia, análise de dados, sistemas embarcados(Raspberry Pi), sensores vestíveis e machine learning utilizando Python e vários de seus frameworks (Mongo DB, Multiprocessing, fastAPI, scikit-learning, etc) como ferramentas complementares.
+As a senior professional, I guided teams in adopting best practices in software development and system design, ensuring data security and robust architecture. My roles involved extensive use of data visualization tools such as Grafana/Metabase to represent complex data insights clearly and effectively.
+
+Core Technologies:
+
+-Programming Languages & Libraries: Python (Pandas, NumPy, Scikit-Learn, statsmodel), Spark (PySpark) among others
+- Python stack for AI: Langchain, LangGraph, HuggingFace, TensorFlow, PyTorch, etc
+- AI Agents & Automation: n8n
+-Data Analysis & Machine Learning Tools: Jupyter, TensorFlow, PyTorch, Pycaret, Keras, Sorba AI (AutoML)
+-Database Management: MongoDB, MySQL, PostgreSQL
+IoT, IIoT & Embedded Systems: Raspberry Pi, Arduino, IoT Platforms (ESP32 and others), MQTT
+-Visualization & KPI Reporting: Grafana and Metabase
+-Development Practices: Agile, Scrum, and PMBOK
+-Integration Tools: AWS, NodeRED
+
+Soft Skills:
+
+-Leadership: Proven track record in leading academic programs and R&D teams.
+-Collaboration: Strong teamwork and project management capabilities, fostering cross-functional team synergy.
+-Communication: Effective communicator with experience in teaching, mentoring, and presenting at international conferences.
+-Problem Solving: Innovative problem solver, adept at tackling complex challenges with strategic data insights.
+-Adaptability & Continuous Learning: Committed to staying abreast of technological trends and applying them to real-world applications.
 <hr>
 
-### 💻Linguagens de Programação
+### 💻Programming Languages & Stacks
 
-Também estou estudando e desenvolvendo projetos em outras linguagens como forma de aprender mais sobre elas, melhorar minhas skills, para assim poder atuar como desenvolvedor fullstack:
 
 <div>
     <br>
@@ -17,9 +36,8 @@ Também estou estudando e desenvolvendo projetos em outras linguagens como forma
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-     <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+    <img align="center" alt="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
 </div>
 <br>
@@ -32,7 +50,7 @@ Também estou estudando e desenvolvendo projetos em outras linguagens como forma
 
 <hr>
 
-### Redes Sociais
+### Social Networks
 
 
 
@@ -44,7 +62,7 @@ Também estou estudando e desenvolvendo projetos em outras linguagens como forma
 
 <hr>
 
-### 📱 Contatos
+### 📱Contact-me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emmanuel.andrade@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eabs86/)
