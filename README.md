@@ -44,7 +44,7 @@ Soft Skills:
 
 
 
-![Emmanuel GitHub stats](https://github-readme-stats-fbhr.vercel.app/api?username=eabs86&show_icons=true&theme=tokyonight)
+![Emmanuel GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eabs86&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats-fbhr.vercel.app/api/top-langs/?username=eabs86&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
