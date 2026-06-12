@@ -54,6 +54,9 @@ Soft Skills:
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ProfEmmanuelAndrade)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emmanuel.andrade_)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eabs86?link=https%3A%2F%2Fx.com%2Feabs86)
+
+
 
 
 
