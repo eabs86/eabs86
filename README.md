@@ -1,10 +1,10 @@
 ## Hello! I'm Emmanuel Andrade! Welcome to my GitHub!👋
 
-With over a decade (10+ years) of progressive experience in data science, machine learning, and AI in academic and industrial contexts, I have developed and led projects that have significantly impacted sectors such as healthcare, industrial automation, and public safety. Specializing in advanced analytics, my expertise spans the development of predictive models, anomaly detection systems, pattern recognition, and process optimization that generate impact and value for companies.
+Senior AI Engineer and Lead Developer/Researcher with over 10 years of progressive experience bridging the gap between academic excellence and high-stakes industrial impact. 
 
-My technical competence includes a deep understanding of machine learning algorithms, data modeling, and simulation using a range of tools such as Python, SQL, MongoDB, and system integration. I have also led data-driven projects, demonstrating tangible benefits such as cost reductions and enhanced predictive capabilities in real-time systems.
+I have a proven track record in leading complex projects across Healthcare, Government, and Industrial Automation, specializing in the end-to-end lifecycle of Generative AI (LLMs), RAG architectures, and Agentic workflows. Expert in developing production-ready applications using the Python stack, my technical competence spans deep learning, machine learning algorithms, data modeling, and advanced simulations. 
 
-As a senior professional, I guided teams in adopting best practices in software development and system design, ensuring data security and robust architecture. My roles involved extensive use of data visualization tools such as Grafana/Metabase to represent complex data insights clearly and effectively.
+Beyond my expertise in GenAI, I possess a solid background in predictive analytics, anomaly detection, and process optimization using tools like SQL, MongoDB, and system integration. As a strategic leader, I guide multidisciplinary teams through robust system design, ensuring data security and adopting software development best practices. My work consistently delivers tangible business value, from cost reductions and operational efficiency to enhanced real-time predictive capabilities, supported by clear data visualization through tools like Grafana and Metabase.
 
 Core Technologies:
 
@@ -13,10 +13,11 @@ Core Technologies:
 - AI Agents & Automation: n8n
 -Data Analysis & Machine Learning Tools: Jupyter, TensorFlow, PyTorch, Pycaret, Keras, Sorba AI (AutoML)
 -Database Management: MongoDB, MySQL, PostgreSQL
-IoT, IIoT & Embedded Systems: Raspberry Pi, Arduino, IoT Platforms (ESP32 and others), MQTT
+IoT, IIoT & Embedded Systems: Raspberry Pi, Arduino, IoT Platforms (ESP32 and others), MQTT, TinyML, Edge AI
 -Visualization & KPI Reporting: Grafana and Metabase
 -Development Practices: Agile, Scrum, and PMBOK
 -Integration Tools: AWS, NodeRED
+- Frontend: React and Frameworks (Vue.js, Tailwind)
 
 Soft Skills:
 
@@ -62,4 +63,4 @@ Soft Skills:
 ### 📱Contact-me!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emmanuel.andrade@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eabs86/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-andrade-ds/)
